@@ -1,0 +1,8 @@
+{
+  "name": "dnd-online-root",
+  "version": "1.0.0",
+  "description": "Root package for D&D Online project",
+  "scripts": {
+    "test": "cd dnd-online && npx jest"
+  }
+}
